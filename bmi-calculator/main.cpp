@@ -17,13 +17,13 @@ int main() {
     double height;
     double weight;
     
-    cout << "Enter your name" << endl;
+    cout << "Enter your name:" << endl;
     cin >> name;
     
-    cout << "Enter your height (in centimeters, example => 205" << endl;
+    cout << "Enter your height: (in centimeters, example => 205)" << endl;
     cin >> height;
     
-    cout << "Enter your weight (in kilograms, example => 100)" << endl;
+    cout << "Enter your weight: (in kilograms, example => 100)" << endl;
     cin >> weight;
     
     BMI Student_1(name, height, weight);
