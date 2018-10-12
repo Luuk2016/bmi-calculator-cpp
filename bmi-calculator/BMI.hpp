@@ -12,7 +12,10 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
+using std::string;
+using std::cout;
+using std::endl;
+using std::cin;
 
 #ifndef BMI_hpp
 #define BMI_hpp
