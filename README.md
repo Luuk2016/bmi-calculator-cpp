@@ -8,7 +8,7 @@ Input:             |  Output:
 
 ## Built With
 
-* [Xcode](apple.com/xcode) - The IDE
+* [Xcode](https://developer.apple.com/xcode/) - The IDE
 * [Gitkraken](https://gitkraken.com) - Git client
 
 ## Authors
